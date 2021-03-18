@@ -1,0 +1,10 @@
+---
+title: "HelloWorld"
+author: "Tommaso Ancilli"
+date: "18/3/2021"
+output: html_document
+---
+
+## This is a markdown file
+
+This is an R Markdown document called Hello Word. It should be pushed in my repository on Coursera called datasciencecoursera. 
